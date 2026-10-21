@@ -1,19 +1,115 @@
-<h1 align="center">Hi 👋, I'm Rey</h1>
-<h3 align="center">An enthusiastic student who enjoys programs from Indonesia</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **how to use AI**
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · mraihan-xxl</sub></p>
+<h1>Rey</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-- 💬 Ask me about **arduino, frontend, etc.**
+<p><a href="https://github.com/mraihan-xxl">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/185333705?u=bd697b38e5023630cff4740a2bc06a0882863c02&amp;v=4" width="180" alt="Rey GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-- 📫 How to reach me **m.raihan.izudin@gmail.com**
+<h2>What teams can evaluate quickly</h2>
 
-- ⚡ Fun fact **Long live Jokowi**
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · PHP · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>13 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>357 contributions · 55 active days</p></td>
+</tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad raihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad raihan" height="30" width="40" /></a>
-<a href="https://instagram.com/@raihan.work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@raihan.work" height="30" width="40" /></a>
+<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>13</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>357</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mraihan-xxl&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185333705%3Fu%3Dbd697b38e5023630cff4740a2bc06a0882863c02%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=mraihan-xxl&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185333705%3Fu%3Dbd697b38e5023630cff4740a2bc06a0882863c02%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Rey GitHub proof metrics" />
+</picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mraihan-xxl&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185333705%3Fu%3Dbd697b38e5023630cff4740a2bc06a0882863c02%26v%3D4&repos=mraihan-xxl%2Fprompt-mint%2Cmraihan-xxl%2FMRaihan-XXL.github.io%2Cmraihan-xxl%2Finvest-nyawit%2Cmraihan-xxl%2Fall-in-one&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=mraihan-xxl&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185333705%3Fu%3Dbd697b38e5023630cff4740a2bc06a0882863c02%26v%3D4&repos=mraihan-xxl%2Fprompt-mint%2Cmraihan-xxl%2FMRaihan-XXL.github.io%2Cmraihan-xxl%2Finvest-nyawit%2Cmraihan-xxl%2Fall-in-one&v=recruiter-projects-1&mode=dark" width="100%" alt="Rey selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/MRaihan-XXL/prompt-mint">prompt-mint</a></h3>
+<p>A selected public project.</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/MRaihan-XXL/prompt-mint">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/MRaihan-XXL/MRaihan-XXL.github.io">MRaihan-XXL.github.io</a></h3><p>GitHub Pages user site — OAuth URL verification endpoint</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/MRaihan-XXL/invest-nyawit">invest-nyawit</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/MRaihan-XXL/all-in-one">all-in-one</a></h3><p>aio — one command wires 8 AI coding agents to one shared context; live GitHub/npm/crates search on every prompt; first-line usage disclosure (model-de</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mraihan-xxl&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185333705%3Fu%3Dbd697b38e5023630cff4740a2bc06a0882863c02%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=mraihan-xxl&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185333705%3Fu%3Dbd697b38e5023630cff4740a2bc06a0882863c02%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Rey technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>67% of public code</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mraihan-xxl&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185333705%3Fu%3Dbd697b38e5023630cff4740a2bc06a0882863c02%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mraihan-xxl&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185333705%3Fu%3Dbd697b38e5023630cff4740a2bc06a0882863c02%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Rey contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/mraihan-xxl">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Rey · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
